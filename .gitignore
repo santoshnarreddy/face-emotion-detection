@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+model/*.h5
+data/
+*.mp4
+screenshot_*.jpg
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
